@@ -1,7 +1,9 @@
-numpy
-opencv-python
-matplotlib
-scikit-image
-tensorflow
-keras
 streamlit
+torch
+torchvision
+opencv-python-headless
+numpy
+matplotlib
+Pillow
+requests
+gdown
