@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.pth
+*.pt
+*.pkl
+*.h5
+
+# Data folders
+data/
+training_data/
+raw_images/
+prototype_data/
+
+# Logs / outputs
+*.csv
+outputs/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
