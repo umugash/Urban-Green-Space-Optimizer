@@ -4,6 +4,7 @@ torchvision
 opencv-python-headless
 numpy
 matplotlib
+scikit-image
 Pillow
 requests
 gdown
