@@ -8,3 +8,4 @@ scikit-image
 Pillow
 requests
 gdown
+fpdf
