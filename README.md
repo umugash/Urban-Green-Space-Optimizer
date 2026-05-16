@@ -174,6 +174,8 @@ Model achieved stable convergence over 50 epochs.
 ---
 
 # 🎥 Demo Video
+
+
 <p align="center">
 
 <img src="demo/demo.gif" width="85%"/>
