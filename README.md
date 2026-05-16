@@ -84,7 +84,6 @@ Architecture follows:
 
 User Upload → Preprocessing → U-Net Segmentation → Area Estimation → Sustainability Metrics → Report Generation
 
-*(Replace with your architecture image)*
 
 ---
 
