@@ -182,7 +182,7 @@ Model achieved stable convergence over 50 epochs.
 Add project walkthrough GIF/video:
 
 ```text
-demo/demo.mp4
+demo/demo.gif
 ```
 
 or
