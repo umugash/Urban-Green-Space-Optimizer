@@ -173,25 +173,15 @@ Model achieved stable convergence over 50 epochs.
 
 ---
 
-*(Create `/images` folder and place screenshots there)*
-
----
-
 # 🎥 Demo Video
+<p align="center">
 
-Add project walkthrough GIF/video:
+<img src="demo/demo.gif" width="85%"/>
 
-```text
-demo/demo.gif
-```
+</p>
 
-or
 
-```text
-demo/demo.gif
-```
 
----
 
 # 🚀 Live Deployment
 
